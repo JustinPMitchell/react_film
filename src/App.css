@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.film-row {
+  background: white;
+  border: 2px solid gray;
+}
+
+.film-title-date {
+  border: 2px solid gray;
+  background: skyblue;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 20px;
+}
